@@ -1,0 +1,6 @@
+@SquareU_HostAddress = http://localhost:5299
+
+GET {{SquareU_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
